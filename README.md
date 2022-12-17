@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **React, Node or Mongndb**
 
-- 📫 How to reach me **Youssef.Kafory@proton.me**
-
 - ⚡ Fun fact **The dot over a lowercase i and j has a name**
 
 <h3 align="left">Connect with me:</h3>
